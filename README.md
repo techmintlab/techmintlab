@@ -26,7 +26,7 @@ Welcome to **TechMintLab**, your go-to partner for cutting-edge software solutio
 ---
 
 ## 🛠 Technologies We Love
-![Technologies](https://example.com/technologies.png)
+![Technologies](https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/03/technology-trend-freepik-1647963838.jpg)
 - **Frontend:** React, Angular, Vue.js,Php, Java,
 - **Backend:** Node.js, Django, Ruby on Rails
 - **Mobile:** Flutter, React Native, Swift, Kotlin
