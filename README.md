@@ -1,7 +1,5 @@
 # TechMintLab
 
-![TechMintLab Logo](https://media.jointlook.com/customPhotos/userImages/d1da69cf-a96c-4b9b-8f0a-4b800cc1d41c_6683a557dbef5411a0b76e13.jpg)
-
 Welcome to **TechMintLab**, your go-to partner for cutting-edge software solutions! We specialize in developing innovative websites and mobile applications tailored to your needs.
 
 ---
