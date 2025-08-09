@@ -13,16 +13,6 @@ Welcome to **TechMintLab**, your go-to partner for cutting-edge software solutio
 - **Graphic Designs:** Highly Professional Designs In Mobile And Websites.
 ---
 
-## 🚀 Featured Projects
-
-### Project One: E-Commerce Platform
-![Project One](https://www.lucknowfashiondiary.com/images/logo_new.png)
-- **Description:** A robust e-commerce platform with seamless payment integration.
-- **Tech Stack:** Html,Css, Js , Node.js, MongoDB.
-
- 
----
-
 ## 🛠 Technologies We Love
 ![Technologies](https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/03/technology-trend-freepik-1647963838.jpg)
 - **Frontend:** React, Angular, Vue.js,Php, Java,
@@ -38,7 +28,7 @@ Welcome to **TechMintLab**, your go-to partner for cutting-edge software solutio
 We'd love to hear from you! Whether you're interested in collaborating on a project or just want to say hello, feel free to reach out.
 
 - **Email:** [support@techmintlab.com](mailto:support@techmintlab.com)
-- **Phone:** +918059424475
+- **Phone:** +917027944324
 - **Website:** [www.techmintlab.com](https://www.techmintlab.com)
 - **LinkedIn:** [TechMintLab on LinkedIn](https://www.linkedin.com/company/techmintlab/posts/?feedView=all)
 
